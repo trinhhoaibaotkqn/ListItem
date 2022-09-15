@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Áo thun",
+      "price": "100.000 VND"
+    },
+    {
+      "id": 2,
+      "name": "Áo khoác",
+      "price": "400.000 VND"
+    },
+    {
+      "name": "Quần âu",
+      "price": "300.000 VND",
+      "id": 3
+    }
+  ]
+}
